@@ -1,7 +1,3 @@
-<!--image/image.wxml-->
-<!-- <image bindtap='imageClick' src='{{image1}}',data-src='{{image1}}'></image>
-
-<image src='{{image2}}'></image> -->
 
 <image src='{{image1}}' bindtap='imageClick' data-src='{{image1}}'></image>
 
